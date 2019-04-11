@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dfc4f94-b7bc-419d-92f2-c09dd52c95e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1337243645">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="1" />
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="1097" />
+          <entry key="m" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1159" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Src/VrCubeWorld_SurfaceView.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="2262" column="51" lean-forward="true" selection-start-line="2262" selection-start-column="51" selection-end-line="2262" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#618#0" />
+                <element signature="e#2884#3230#0" />
+                <element signature="e#3439#3605#0" />
+                <element signature="e#3661#4137#0" />
+                <element signature="e#4139#5073#0" />
+                <element signature="e#5075#5652#0" />
+                <element signature="e#6700#6867#0" />
+                <element signature="e#6877#7110#0" />
+                <element signature="e#7112#10578#0" />
+                <element signature="e#10580#11815#0" />
+                <element signature="e#12008#12139#0" />
+                <element signature="e#12212#12416#0" />
+                <element signature="e#12431#12602#1" />
+                <element signature="e#12989#13379#0" />
+                <element signature="e#15640#15841#0" />
+                <element signature="e#15843#16638#0" />
+                <element signature="e#16640#16768#0" />
+                <element signature="e#17023#17342#0" />
+                <element signature="e#17364#17599#0" />
+                <element signature="e#17374#17453#1" />
+                <element signature="e#17465#17568#1" />
+                <element signature="e#17853#18202#0" />
+                <element signature="e#18263#21559#0" />
+                <element signature="e#21561#21968#0" />
+                <element signature="e#23183#23443#0" />
+                <element signature="e#23461#23845#0" />
+                <element signature="e#23847#31067#0" />
+                <element signature="e#31069#31657#0" />
+                <element signature="e#31659#31844#0" />
+                <element signature="e#31846#31938#0" />
+                <element signature="e#31940#32278#0" />
+                <element signature="e#32280#32516#0" />
+                <element signature="e#33434#34186#0" />
+                <element signature="e#34188#34350#0" />
+                <element signature="e#34352#34609#0" />
+                <element signature="e#37813#38147#0" />
+                <element signature="e#38149#38332#0" />
+                <element signature="e#38342#38384#0" />
+                <element signature="e#38401#38583#0" />
+                <element signature="e#38585#38892#0" />
+                <element signature="e#38894#39075#0" />
+                <element signature="e#39085#39171#0" />
+                <element signature="e#39186#39418#0" />
+                <element signature="e#39985#40165#0" />
+                <element signature="e#48681#48866#0" />
+                <element signature="e#56612#56788#0" />
+                <element signature="e#56798#57298#0" />
+                <element signature="e#57984#58802#0" />
+                <element signature="e#58804#60894#0" />
+                <element signature="e#60896#62793#0" />
+                <element signature="e#62795#63182#0" />
+                <element signature="e#63184#63369#0" />
+                <element signature="e#63379#63574#0" />
+                <element signature="e#63651#63726#0" />
+                <element signature="e#63740#63923#0" />
+                <element signature="e#64695#65101#0" />
+                <element signature="e#65120#65823#0" />
+                <element signature="e#65825#66122#0" />
+                <element signature="e#66124#66246#0" />
+                <element signature="e#66248#67219#0" />
+                <element signature="e#67221#67855#0" />
+                <element signature="e#67857#68826#0" />
+                <element signature="e#68828#69010#0" />
+                <element signature="e#69012#69244#1" />
+                <element signature="e#69255#69393#0" />
+                <element signature="e#75692#76203#0" />
+                <element signature="e#76205#76439#0" />
+                <element signature="e#76441#76629#0" />
+                <element signature="e#76640#77176#0" />
+                <element signature="e#77187#77550#0" />
+                <element signature="e#77561#77927#0" />
+                <element signature="e#77938#78301#0" />
+                <element signature="e#78312#78672#0" />
+                <element signature="e#78683#79174#0" />
+                <element signature="e#79176#79363#0" />
+                <element signature="e#79374#80571#0" />
+                <element signature="e#80582#82348#0" />
+                <element signature="e#82359#82899#0" />
+                <element signature="e#82901#83076#0" />
+                <element signature="e#83087#83660#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ovrscene_create</find>
+      <find>ovrgeome</find>
+      <find>ovrgeometry_destroy</find>
+      <find>glDelete</find>
+      <find>VertexBuffer</find>
+      <find>scene</find>
+      <find>ovrGeometry</find>
+      <find>color</find>
+      <find>&amp;scene</find>
+      <find>colorp</find>
+      <find>colorpointer</find>
+      <find>renderFrame</find>
+      <find>ovrFramebuffer_SetNone</find>
+      <find>vertexColor</find>
+      <find>VERTEX_ATTRIBUTE_LOCATION_COLOR</find>
+      <find>appthread</find>
+      <find>Instance</find>
+      <find>glEnableVertexAttribArray</find>
+      <find>InstanceTransformBuffer</find>
+      <find>ovrScene</find>
+      <find>ovrScene_create</find>
+      <find>create</find>
+      <find>createCube</find>
+      <find>ovrScene_Create</find>
+      <find>(scene)</find>
+      <find>changeColor</find>
+      <find>useMultiview</find>
+      <find>colorPointer</find>
+      <find>ovrGeometry_CreateCub</find>
+      <find>scene_create</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../Src/VrCubeWorld_SurfaceView.c" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VrCubeWorld_SurfaceView" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Android" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="VrCubeWorld_SurfaceView" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Android" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="9a30073f:AndroidJniFolderNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="1KWPH800V29087" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Android" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Android" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Native" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <symbol_dirs symbol_path="$PROJECT_DIR$/../../../../VrApi/Libs/Android/armeabi-v7a" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dfc4f94-b7bc-419d-92f2-c09dd52c95e2" name="Default Changelist" comment="" />
+      <created>1554887939865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554887939865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.09942775" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Find" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32885906" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29036143" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.34457833" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../../Src/VrCubeWorld_SurfaceView.c</url>
+          <line>1260</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>GL_ARRAY_BUFFER</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cubeTransforms</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>offsetof</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scene-&gt;InstanceTransformBuffer</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cubeVertices.colors[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ovrCubeVertices</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(GLvoid *)offsetof( randomStruct, colors )</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/GLES3/gl3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="553" selection-start-line="553" selection-end-line="553" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Src/VrCubeWorld_SurfaceView.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="2262" column="51" lean-forward="true" selection-start-line="2262" selection-start-column="51" selection-end-line="2262" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#618#0" />
+            <element signature="e#2884#3230#0" />
+            <element signature="e#3439#3605#0" />
+            <element signature="e#3661#4137#0" />
+            <element signature="e#4139#5073#0" />
+            <element signature="e#5075#5652#0" />
+            <element signature="e#6700#6867#0" />
+            <element signature="e#6877#7110#0" />
+            <element signature="e#7112#10578#0" />
+            <element signature="e#10580#11815#0" />
+            <element signature="e#12008#12139#0" />
+            <element signature="e#12212#12416#0" />
+            <element signature="e#12431#12602#1" />
+            <element signature="e#12989#13379#0" />
+            <element signature="e#15640#15841#0" />
+            <element signature="e#15843#16638#0" />
+            <element signature="e#16640#16768#0" />
+            <element signature="e#17023#17342#0" />
+            <element signature="e#17364#17599#0" />
+            <element signature="e#17374#17453#1" />
+            <element signature="e#17465#17568#1" />
+            <element signature="e#17853#18202#0" />
+            <element signature="e#18263#21559#0" />
+            <element signature="e#21561#21968#0" />
+            <element signature="e#23183#23443#0" />
+            <element signature="e#23461#23845#0" />
+            <element signature="e#23847#31067#0" />
+            <element signature="e#31069#31657#0" />
+            <element signature="e#31659#31844#0" />
+            <element signature="e#31846#31938#0" />
+            <element signature="e#31940#32278#0" />
+            <element signature="e#32280#32516#0" />
+            <element signature="e#33434#34186#0" />
+            <element signature="e#34188#34350#0" />
+            <element signature="e#34352#34609#0" />
+            <element signature="e#37813#38147#0" />
+            <element signature="e#38149#38332#0" />
+            <element signature="e#38342#38384#0" />
+            <element signature="e#38401#38583#0" />
+            <element signature="e#38585#38892#0" />
+            <element signature="e#38894#39075#0" />
+            <element signature="e#39085#39171#0" />
+            <element signature="e#39186#39418#0" />
+            <element signature="e#39985#40165#0" />
+            <element signature="e#48681#48866#0" />
+            <element signature="e#56612#56788#0" />
+            <element signature="e#56798#57298#0" />
+            <element signature="e#57984#58802#0" />
+            <element signature="e#58804#60894#0" />
+            <element signature="e#60896#62793#0" />
+            <element signature="e#62795#63182#0" />
+            <element signature="e#63184#63369#0" />
+            <element signature="e#63379#63574#0" />
+            <element signature="e#63651#63726#0" />
+            <element signature="e#63740#63923#0" />
+            <element signature="e#64695#65101#0" />
+            <element signature="e#65120#65823#0" />
+            <element signature="e#65825#66122#0" />
+            <element signature="e#66124#66246#0" />
+            <element signature="e#66248#67219#0" />
+            <element signature="e#67221#67855#0" />
+            <element signature="e#67857#68826#0" />
+            <element signature="e#68828#69010#0" />
+            <element signature="e#69012#69244#1" />
+            <element signature="e#69255#69393#0" />
+            <element signature="e#75692#76203#0" />
+            <element signature="e#76205#76439#0" />
+            <element signature="e#76441#76629#0" />
+            <element signature="e#76640#77176#0" />
+            <element signature="e#77187#77550#0" />
+            <element signature="e#77561#77927#0" />
+            <element signature="e#77938#78301#0" />
+            <element signature="e#78312#78672#0" />
+            <element signature="e#78683#79174#0" />
+            <element signature="e#79176#79363#0" />
+            <element signature="e#79374#80571#0" />
+            <element signature="e#80582#82348#0" />
+            <element signature="e#82359#82899#0" />
+            <element signature="e#82901#83076#0" />
+            <element signature="e#83087#83660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

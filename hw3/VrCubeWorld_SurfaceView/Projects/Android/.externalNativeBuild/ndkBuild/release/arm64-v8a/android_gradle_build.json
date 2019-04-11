@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Android.mk",
+    "/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/briantan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/lib V\u003d0 -C/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android APP_PLATFORM\u003dandroid-21 NDK_TOOLCHAIN_VERSION\u003dclang APP_STL\u003dc++_static NDK_DEBUG\u003d0 OVR_DEBUG\u003d0 USE_ASAN\u003d0 clean"
+  ],
+  "libraries": {
+    "vrcubeworld-release-arm64-v8a": {
+      "buildCommand": "/Users/briantan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/lib V\u003d0 -j8 -C/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android APP_PLATFORM\u003dandroid-21 NDK_TOOLCHAIN_VERSION\u003dclang APP_STL\u003dc++_static NDK_DEBUG\u003d0 OVR_DEBUG\u003d0 USE_ASAN\u003d0 /Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libvrcubeworld.so",
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "vrcubeworld",
+      "files": [
+        {
+          "src": "/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/../../../Src/VrCubeWorld_SurfaceView.c",
+          "flags": "-target aarch64-none-linux-android21 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/briantan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fpic -O2 -DNDEBUG -I/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni/../../../../../VrApi/Projects/AndroidPrebuilt/jni/../../../Include -I/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/jni -DANDROID -std\u003dc99 -Werror -nostdinc++ -Wa,--noexecstack -Wformat -Werror\u003dformat-security"
+        }
+      ],
+      "output": "/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libvrcubeworld.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cCompilerExecutable": "/Users/briantan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 10 02:21:01 PDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/assets/debug
+0.path=donotedelete.txt
+0.set=ASSET
+count=1

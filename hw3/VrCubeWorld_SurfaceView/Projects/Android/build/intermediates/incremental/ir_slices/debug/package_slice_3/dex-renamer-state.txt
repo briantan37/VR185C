@@ -1,0 +1,4 @@
+#Wed Apr 10 02:23:53 PDT 2019
+base.0=/Users/briantan/Documents/SJSU/ovr_sdk_mobile_1.22/VrSamples/VrCubeWorld_SurfaceView/Projects/Android/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
